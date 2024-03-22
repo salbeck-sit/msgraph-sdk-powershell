@@ -12935,7 +12935,7 @@ paths:
         default:
           $ref: '#/components/responses/error'
       x-ms-docs-operation-type: operation
-    patch:
+    put:
       tags:
         - servicePrincipals.synchronization
       summary: Update synchronizationSchema
